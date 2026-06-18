@@ -1,16 +1,23 @@
 img{
-width: 400px;
+
+width: 300px;
+padding: 10px;
+margin: 10px;
+background-color: white;
+}
+
+body{
+    
+background-color:pink;
+color:aliceblue;
+font-size: 100% ;
 
 }
 
 a{
-    width:20px ;
-    height:10px;
-    background-color: rgb(138, 4, 4);
-    border-radius: 5px;
-}
-body{
-background-color: antiquewhite;
-color: black;
-font-size: 10px;
+width: 10px;
+height: 10px;
+background-color: lightcyan;
+border-radius: 5px;
 
+}
