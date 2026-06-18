@@ -3,15 +3,14 @@ width: 400px;
 
 }
 
-body{
-background-color: antiquewhite;
-color: black;
-font-size: 10px;
-}
 a{
     width:20px ;
     height:10px;
     background-color: rgb(138, 4, 4);
     border-radius: 5px;
 }
+body{
+background-color: antiquewhite;
+color: black;
+font-size: 10px;
 
